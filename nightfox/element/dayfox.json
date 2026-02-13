@@ -1,0 +1,43 @@
+{
+  "name": "Dayfox",
+  "is_dark": false,
+  "colors": {
+    "accent-color": "#2848a9",
+    "primary-color": "#2848a9",
+    "warning-color": "#a5222f",
+    "sidebar-color": "#dbd1dd",
+    "roomlist-background-color": "#dbd1dd",
+    "roomlist-text-color": "#3d2b5a",
+    "roomlist-text-secondary-color": "#824d5b",
+    "roomlist-highlights-color": "#d3c7bb",
+    "roomlist-separator-color": "#d3c7bb",
+    "timeline-background-color": "#f6f2ee",
+    "timeline-text-color": "#3d2b5a",
+    "secondary-content": "#824d5b",
+    "tertiary-content": "#824d5b",
+    "timeline-text-secondary-color": "#2848a9",
+    "timeline-highlights-color": "#d3c7bb",
+    "reaction-row-button-selected-bg-color": "#a5222f"
+  },
+  "compound": {
+    "--cpd-color-theme-bg": "#dbd1dd",
+    "--cpd-color-bg-canvas-default": "#f6f2ee",
+    "--cpd-color-bg-subtle-secondary": "#dbd1dd",
+    "--cpd-color-bg-subtle-primary": "#dbd1dd",
+    "--cpd-color-bg-action-primary-rest": "#2848a9",
+    "--cpd-color-bg-critical-primary": "#a5222f",
+    "--cpd-color-bg-accent-rest": "#2848a9",
+    "--cpd-color-text-primary": "#3d2b5a",
+    "--cpd-color-text-secondary": "#2848a9",
+    "--cpd-color-text-action-accent": "#2848a9",
+    "--cpd-color-text-critical-primary": "#a5222f",
+    "--cpd-color-text-success-primary": "#396847",
+    "--cpd-color-icon-primary": "#3d2b5a",
+    "--cpd-color-icon-secondary": "#2848a9",
+    "--cpd-color-icon-tertiary": "#824d5b",
+    "--cpd-color-icon-accent-tertiary": "#2848a9",
+    "--cpd-color-border-interactive-primary": "#f6f2ee",
+    "--cpd-color-border-critical-primary": "#a5222f",
+    "--cpd-color-border-success-subtle": "#396847"
+  }
+}
